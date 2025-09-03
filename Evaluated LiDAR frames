@@ -1,4 +1,5 @@
-LiDAR frames targeted by LiDAR point insertion attacks
+40 LiDAR frames from the nuScenes dataset targeted by LiDAR point insertion attacks.
+The evaluation results are presented in the paper "A watermark-based defense mechanism approach against LiDAR point insertion attacks in autonomous vehicles".
 
  1. n015-2018-07-24-11-22-45+0800__LIDAR_TOP__1532402927647951.pcd.bin
  2. n015-2018-07-24-11-22-45+0800__LIDAR_TOP__1532402928147847.pcd.bin
